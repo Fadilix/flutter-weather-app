@@ -14,15 +14,15 @@ flutter pub get
 ```
 # Screenshots
 
-<img src ="https://github.com/Fadilix/flutter-weather-app/assets/121851593/65255e4a-c4e0-4619-90eb-5f918cce49db" width="300">
-<img src ="https://github.com/Fadilix/flutter-weather-app/assets/121851593/2198abb8-9c0f-4a7b-b46e-866ebbe3a610" width="300">
-<img src ="https://github.com/Fadilix/flutter-weather-app/assets/121851593/095fb653-0b90-4d51-8333-266f172efede" width="300">
+<img src ="https://github.com/Fadilix/flutter-weather-app/assets/121851593/65255e4a-c4e0-4619-90eb-5f918cce49db" width="200">
+<img src ="https://github.com/Fadilix/flutter-weather-app/assets/121851593/2198abb8-9c0f-4a7b-b46e-866ebbe3a610" width="200">
+<img src ="https://github.com/Fadilix/flutter-weather-app/assets/121851593/095fb653-0b90-4d51-8333-266f172efede" width="200">
 
 
 ## Themes
-<img src="https://github.com/Fadilix/flutter-weather-app/assets/121851593/206c436d-5790-4b18-acd8-1b8e290f22c0" width="300">
-<img src="https://github.com/Fadilix/flutter-weather-app/assets/121851593/2ede630a-b320-4d4e-8627-b06e008fa4a2" width="300">
-<img src="https://github.com/Fadilix/flutter-weather-app/assets/121851593/327b78ec-524f-4380-b9a2-92d31ec7149c" width="300">
+<img src="https://github.com/Fadilix/flutter-weather-app/assets/121851593/206c436d-5790-4b18-acd8-1b8e290f22c0" width="200">
+<img src="https://github.com/Fadilix/flutter-weather-app/assets/121851593/2ede630a-b320-4d4e-8627-b06e008fa4a2" width="200">
+<img src="https://github.com/Fadilix/flutter-weather-app/assets/121851593/327b78ec-524f-4380-b9a2-92d31ec7149c" width="200">
 
 #
 # Usage
